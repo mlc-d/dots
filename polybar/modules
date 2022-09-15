@@ -177,7 +177,7 @@ format-offline-prefix-foreground = ${color.RED}
 label-offline = "Offline"
 
 label-song =  "%title% | %artist%"
-label-song-maxlen = 40
+label-song-maxlen = 60
 label-song-ellipsis = true
 
 icon-play = 
