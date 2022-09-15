@@ -1,5 +1,11 @@
-## Copyright (C) 2020-2022 Aditya Shakya <adi1090x@gmail.com>
-## Everyone is permitted to copy and distribute copies of this file under GNU-GPL3
+;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+[module/memory]
+type = internal/memory
+interval = 2
+format-prefix = "ram "
+format-prefix-foreground = ${color.GREEN}
+label = %percentage_used:2%%
 
 ;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 

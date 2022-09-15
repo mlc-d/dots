@@ -49,7 +49,7 @@ font-3 = "Iosevka:style=bold:size=12;3"
 
 modules-left = xworkspaces
 modules-center = mpd
-modules-right = filesystem sep filesystem1 sep cpu sep volume sep brightness sep network sep battery sep date
+modules-right = filesystem sep filesystem1 sep cpu sep memory sep volume sep brightness sep network sep battery sep date
 
 
 separator =
